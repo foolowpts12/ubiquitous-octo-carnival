@@ -6020,3 +6020,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 19:18:26.223] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [22May2025 19:19:05.021] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@15492fd7[id=<null>,name=Aqui_Si_Ban,properties={},legacy=false] (/127.249.4.71:38807) lost connection: Disconnected
 [22May2025 19:20:35.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [No Step on Snake]
+[22May2025 19:23:35.715] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[22May2025 19:23:35.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[22May2025 19:23:45.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[22May2025 19:23:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22May2025 19:23:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22May2025 19:23:45.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22May2025 19:23:45.375] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:overworld
+[22May2025 19:23:45.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/graveyard:past
+[22May2025 19:23:45.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_end
+[22May2025 19:23:45.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/deeperdarker:otherside
+[22May2025 19:23:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/slugterra:the_slugterra
+[22May2025 19:23:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_nether
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madafaka): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_slugterra): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22May2025 19:23:45.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[22May2025 19:23:45.673] [Server thread/INFO] [Framework/]: Unloading server configs...
+[22May2025 19:23:45.673] [Server thread/INFO] [Framework/]: Finished unloading server configs
