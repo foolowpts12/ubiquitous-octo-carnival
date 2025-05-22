@@ -5629,3 +5629,163 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 19:00:46.227] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 19:00:46.228] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 19:00:57.687] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:27.572] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.572] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:raw_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onion is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onions is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:wild_rice is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.575] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onion is
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/root' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/flint_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/cutting_board' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/melon_juice' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/melon_popsicle' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/apple_cider' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/golden_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/golden_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/decorations/blackstone_blast_furnace' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/cooking_pot' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/iron_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/iron_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/dog_food' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/bone_broth' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/pasta_with_mutton_chop' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg_from_smoking' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg_from_campfire_cooking' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/baked_cod_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/fried_rice' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/roasted_mutton_chops' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/shepherds_pie_block' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/mutton_wrap' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/pie_crust' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/wheat_dough_from_eggs' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/wheat_dough_from_water' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/plant_all_crops' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/diamond_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/diamond_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/pasta_with_meatballs' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/beef_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/rabbit_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/chicken_soup' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/vegetable_noodles' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/vegetable_soup' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/get_fd_seed' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/dumplings' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/fish_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/barbecue_stick' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/ratatouille' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/building_blocks/onion_crate' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/horse_feed' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/nether_salad' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/mixed_salad' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/dark_oak_cabinet' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/ratatouille removed now.
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking_pot removed now.
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_campfire_cooking removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/baked_cod_stew removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:melon_popsicle removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:flint_knife removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:dark_oak_cabinet removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:melon_juice removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:golden_knife removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:roasted_mutton_chops removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:golden_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:iron_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fried_rice removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_soup removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_meatballs removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mutton_wrap removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:diamond_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:barbecue_stick removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/rabbit_stew removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_water removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_cook removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_noodles removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:shepherds_pie_block removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mixed_salad removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/apple_cider removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:nether_salad removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_eggs removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:horse_feed removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_smoking removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:blackstone_blast_furnace removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:onion_crate removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/bone_broth removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dumplings removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_mutton_chop removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:pie_crust removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/beef_stew removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:diamond_knife removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fish_stew removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_smoke removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:iron_knife removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/chicken_soup removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cutting_board removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dog_food removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:organic_compost_from_rotten_flesh removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/ratatouille removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking_pot removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_campfire_cooking removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/baked_cod_stew removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:dark_oak_cabinet removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:golden_knife removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:roasted_mutton_chops removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:golden_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:iron_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fried_rice removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_soup removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_meatballs removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mutton_wrap removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:diamond_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:barbecue_stick removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/rabbit_stew removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_water removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_cook removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_noodles removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:shepherds_pie_block removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mixed_salad removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/apple_cider removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:nether_salad removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_eggs removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:horse_feed removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_smoking removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:blackstone_blast_furnace removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:onion_crate removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/bone_broth removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dumplings removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_mutton_chop removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:pie_crust removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/beef_stew removed now.
+[22May2025 19:04:27.617] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:diamond_knife removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fish_stew removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_smoke removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:iron_knife removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/chicken_soup removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dog_food removed now.
+[22May2025 19:04:27.619] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:organic_compost_from_rotten_flesh removed now.
+[22May2025 19:04:27.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:47441] logged in with entity id 6102 at (4394.774469545823, 116.0, 2291.868266463468)
+[22May2025 19:04:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[22May2025 19:04:28.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[22May2025 19:04:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[22May2025 19:04:28.780] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22May2025 19:04:28.810] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.811] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.811] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.812] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.812] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.814] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.814] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.815] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.815] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.816] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'

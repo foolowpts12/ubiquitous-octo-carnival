@@ -10256,3 +10256,379 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22May2025 19:00:46.227] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 19:00:46.228] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 19:00:57.687] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:02:28.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[22May2025 19:02:28.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[22May2025 19:04:23.649] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 39 messages to dispatch.
+[22May2025 19:04:23.670] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:network_gun_manager' to 'framework:handshake' sequence 0
+[22May2025 19:04:23.721] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'cgm:custom_gun_manager' to 'framework:handshake' sequence 1
+[22May2025 19:04:23.769] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 2
+[22May2025 19:04:23.814] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 0
+[22May2025 19:04:23.814] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 0 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[22May2025 19:04:23.814] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:23.830] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 3
+[22May2025 19:04:23.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel framework:handshake with index 1
+[22May2025 19:04:23.873] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type com.mrcrayfish.framework.api.network.message.HandshakeMessage$Acknowledge
+[22May2025 19:04:23.873] [Netty Epoll Server IO #5/DEBUG] [Framework/FRAMEWORK_HANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:23.873] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 4
+[22May2025 19:04:23.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 5
+[22May2025 19:04:23.970] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 6
+[22May2025 19:04:24.018] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 7
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [hexerei, treechop, skyvillages, betterdungeons, kuma_api, playeranimator, darkfeather, sophisticatedcore, controlling, citadel, alexsmobs, lootintegrations, yungsapi, mixinextras, bookshelf, sophisticatedbackpacks, guardvillagers, ldlib, balm, darktimer, carryon, chat_heads, betterfortresses, cloth_config, darkflight, dummmmmmy, embeddium, rubidium, darksmithing, darkglint, corpse, advancementplaques, farmersdelight, armorstandarms, darkwooly, trajanstanks, getittogetherdrops, hangglider, lionfishapi, enchantmenttransfer, highlighter, cataclysm, curios, collective, camera, searchables, citadel_fix, darkdeath, chunkpregen, deeperdarker, architectury, aiimprovements, cupboard, lanserverproperties, darksmelting, photon, monolib, darkcap, framework, toms_storage, darkspawn, gamemenumodoption, morningglory, mowziesmobs, geckolib, doubledoors, wi_zoom, trashslot, trajanscore, easymagic, jei, cgm, darksleep, graveyard, caelus, waystones, clumps, darkzoom, comforts, naturescompass, artifacts, starlight, dixtas_armory, enhanced_boss_bars, puzzlesaccessapi, dungeons_arise_seven_seas, forge, betterdays, logbegone, dungeons_arise, minecraft, slugterra, replanter, born_in_chaos_v1, enchdesc, terrablender, biomesoplenty, moonlight, mousetweaks, lootintegration_wda, jade, watching, darkheads, spectrelib, nethersdelight, lootintegrations_yungs, darkrtp, iceberg, securitycraft, moreprotectables, irons_spellbooks, entityculling, appleskin, alexsdelight, ferritecore, embeddium_extra, puzzleslib, expandability, carbonconfig]
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'dummmmmmy:channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'chunkpregen:networking' : Version test of 'default' from client : ACCEPTED
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[22May2025 19:04:24.018] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toms_storage:main' : Version test of '2' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:play' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:treechop-channel' : Version test of '7' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'irons_spellbooks:messages' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spectrelib:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cgm:play' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'deeperdarker:deeperdarker_network' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'caelus:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'hexerei:network' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'graveyard:spawn_entity' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'moonlight:channel' : Version test of '0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Version test of '1.0.0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'darkfeather:darkfeather' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'slugterra:slugterra' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.10.0.1' from client : ACCEPTED
+[22May2025 19:04:24.019] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'born_in_chaos_v1:born_in_chaos_v1' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'framework:handshake' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trashslot:network' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carbonconfig:networking' : Version test of '1.0.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'naturescompass:naturescompass' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'camera:default' : Version test of '1.0.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trajanscore:tank' : Version test of '0.1.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ldlib:networking' : Version test of '0.0.1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'trajanstanks:main' : Version test of '1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'photon:networking' : Version test of '0.0.1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of '1.0' from client : ACCEPTED
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[22May2025 19:04:24.020] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.060] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.069] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:schools' to 'fml:handshake' sequence 8
+[22May2025 19:04:24.119] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 9
+[22May2025 19:04:24.177] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 10
+[22May2025 19:04:24.218] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 11
+[22May2025 19:04:24.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[22May2025 19:04:24.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.233] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.270] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 12
+[22May2025 19:04:24.293] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[22May2025 19:04:24.293] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.293] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.293] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[22May2025 19:04:24.293] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[22May2025 19:04:24.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.294] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.319] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 13
+[22May2025 19:04:24.369] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 14
+[22May2025 19:04:24.423] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 15
+[22May2025 19:04:24.469] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 16
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[22May2025 19:04:24.506] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.507] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.507] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[22May2025 19:04:24.507] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.507] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.522] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 17
+[22May2025 19:04:24.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[22May2025 19:04:24.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.522] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[22May2025 19:04:24.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.570] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.570] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry irons_spellbooks:spells' to 'fml:handshake' sequence 18
+[22May2025 19:04:24.621] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 19
+[22May2025 19:04:24.667] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 20
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.687] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.718] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry betterdays:time_effect' to 'fml:handshake' sequence 21
+[22May2025 19:04:24.767] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 22
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.789] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.823] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 23
+[22May2025 19:04:24.866] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 24
+[22May2025 19:04:24.867] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[22May2025 19:04:24.867] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.867] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.908] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[22May2025 19:04:24.908] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.908] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.919] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 25
+[22May2025 19:04:24.966] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[22May2025 19:04:24.966] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.966] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:24.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 26
+[22May2025 19:04:24.989] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[22May2025 19:04:24.989] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:24.989] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:25.017] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 27
+[22May2025 19:04:25.070] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config camera-server.toml' to 'fml:handshake' sequence 28
+[22May2025 19:04:25.116] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config cgm-server.toml' to 'fml:handshake' sequence 29
+[22May2025 19:04:25.169] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 30
+[22May2025 19:04:25.219] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config irons_spellbooks-server.toml' to 'fml:handshake' sequence 31
+[22May2025 19:04:25.271] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config hangglider-server.toml' to 'fml:handshake' sequence 32
+[22May2025 19:04:25.320] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toms_storage-server.toml' to 'fml:handshake' sequence 33
+[22May2025 19:04:25.377] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 34
+[22May2025 19:04:25.420] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config getittogetherdrops-server.toml' to 'fml:handshake' sequence 35
+[22May2025 19:04:25.471] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config corpse-server.toml' to 'fml:handshake' sequence 36
+[22May2025 19:04:25.519] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easymagic-server.toml' to 'fml:handshake' sequence 37
+[22May2025 19:04:25.569] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 38
+[22May2025 19:04:27.456] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[22May2025 19:04:27.457] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.457] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[22May2025 19:04:27.497] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 38
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 38 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[22May2025 19:04:27.498] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[22May2025 19:04:27.519] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[22May2025 19:04:27.572] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.572] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:raw_bison is
+[22May2025 19:04:27.573] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onion is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onions is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:wild_rice is
+[22May2025 19:04:27.574] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what alexsdelight:cooked_bison is
+[22May2025 19:04:27.575] [Server thread/WARN] [net.minecraft.stats.ServerStatsCounter/]: Invalid statistic in ./madafaka/stats/9014711c-b62d-33b8-a7e3-8c6952668adf.json: Don't know what farmersdelight:onion is
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/root' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/flint_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/cutting_board' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/melon_juice' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.585] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/melon_popsicle' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/apple_cider' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/golden_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/golden_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/decorations/blackstone_blast_furnace' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/cooking_pot' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/iron_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.586] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/iron_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/dog_food' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/building_blocks/organic_compost_from_rotten_flesh' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/bone_broth' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/pasta_with_mutton_chop' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg_from_smoking' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg_from_campfire_cooking' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/baked_cod_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/fried_rice' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.587] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/fried_egg' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/roasted_mutton_chops' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/shepherds_pie_block' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/mutton_wrap' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/pie_crust' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/wheat_dough_from_eggs' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/wheat_dough_from_water' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/plant_all_crops' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.588] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/combat/diamond_knife' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'nethersdelight:recipes/tools/diamond_machete' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/pasta_with_meatballs' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/beef_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/rabbit_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/chicken_soup' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/vegetable_noodles' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.589] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/vegetable_soup' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:main/get_fd_seed' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/dumplings' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/fish_stew' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/barbecue_stick' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/cooking/ratatouille' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/building_blocks/onion_crate' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.590] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/horse_feed' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/nether_salad' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/food/mixed_salad' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.591] [Server thread/WARN] [net.minecraft.server.PlayerAdvancements/]: Ignored advancement 'farmersdelight:recipes/decorations/dark_oak_cabinet' in progress file ./madafaka/advancements/9014711c-b62d-33b8-a7e3-8c6952668adf.json - it doesn't exist anymore?
+[22May2025 19:04:27.605] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/ratatouille removed now.
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking_pot removed now.
+[22May2025 19:04:27.605] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_campfire_cooking removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/baked_cod_stew removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:melon_popsicle removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:flint_knife removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:dark_oak_cabinet removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:melon_juice removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:golden_knife removed now.
+[22May2025 19:04:27.606] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:roasted_mutton_chops removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:golden_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:iron_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fried_rice removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_soup removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_meatballs removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mutton_wrap removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:diamond_machete removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:barbecue_stick removed now.
+[22May2025 19:04:27.607] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/rabbit_stew removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_water removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_cook removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_noodles removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:shepherds_pie_block removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mixed_salad removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/apple_cider removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:nether_salad removed now.
+[22May2025 19:04:27.608] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_eggs removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:horse_feed removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_smoking removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:blackstone_blast_furnace removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:onion_crate removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/bone_broth removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dumplings removed now.
+[22May2025 19:04:27.609] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_mutton_chop removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:pie_crust removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/beef_stew removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:diamond_knife removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fish_stew removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_smoke removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:iron_knife removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/chicken_soup removed now.
+[22May2025 19:04:27.610] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cutting_board removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dog_food removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:organic_compost_from_rotten_flesh removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/ratatouille removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking_pot removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_campfire_cooking removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/baked_cod_stew removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:dark_oak_cabinet removed now.
+[22May2025 19:04:27.611] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:golden_knife removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:roasted_mutton_chops removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:golden_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:iron_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fried_rice removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_soup removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_meatballs removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mutton_wrap removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:diamond_machete removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:barbecue_stick removed now.
+[22May2025 19:04:27.612] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/rabbit_stew removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_water removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_cook removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/vegetable_noodles removed now.
+[22May2025 19:04:27.614] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:shepherds_pie_block removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:mixed_salad removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/apple_cider removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:nether_salad removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:wheat_dough_from_eggs removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:horse_feed removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:fried_egg_from_smoking removed now.
+[22May2025 19:04:27.615] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: nethersdelight:blackstone_blast_furnace removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:onion_crate removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/bone_broth removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dumplings removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/pasta_with_mutton_chop removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:pie_crust removed now.
+[22May2025 19:04:27.616] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/beef_stew removed now.
+[22May2025 19:04:27.617] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:diamond_knife removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/fish_stew removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: alexsdelight:smelting/bison_smoke removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:iron_knife removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/chicken_soup removed now.
+[22May2025 19:04:27.618] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:cooking/dog_food removed now.
+[22May2025 19:04:27.619] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: farmersdelight:organic_compost_from_rotten_flesh removed now.
+[22May2025 19:04:27.619] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.249.4.71:47441] logged in with entity id 6102 at (4394.774469545823, 116.0, 2291.868266463468)
+[22May2025 19:04:27.619] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@4138922d into net.minecraft.network.Connection@192ca770
+[22May2025 19:04:27.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[22May2025 19:04:28.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[22May2025 19:04:28.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[22May2025 19:04:28.780] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22May2025 19:04:28.810] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.811] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.811] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.812] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.812] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.813] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.814] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.814] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.815] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.815] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:04:28.816] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 19:07:28.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[22May2025 19:07:29.018] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
