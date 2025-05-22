@@ -5599,3 +5599,4 @@ com.google.gson.JsonSyntaxException: Unknown type 'minecraft:alternative'
 [22May2025 17:21:22.078] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 17:21:22.141] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [22May2025 17:21:27.305] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[22May2025 17:27:09.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: The difficulty has been set to Hard
