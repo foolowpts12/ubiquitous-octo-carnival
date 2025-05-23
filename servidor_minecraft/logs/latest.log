@@ -5492,3 +5492,42 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23May2025 18:09:14.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.156.150.119:53509] logged in with entity id 8689 at (3873.5024397441034, 65.25220334025373, 2567.232678857133)
 [23May2025 18:09:14.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
 [23May2025 18:18:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [You Are A Pirate]
+[23May2025 18:19:33.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzzzzzzz
+[23May2025 18:19:37.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban was slain by Vindicator
+[23May2025 18:20:12.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Disconnected
+[23May2025 18:20:12.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[23May2025 18:20:56.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.226.188.75:36683] logged in with entity id 17902 at (4393.5, 116.0, 2294.5)
+[23May2025 18:20:56.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[23May2025 18:21:25.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No entity was found
+[23May2025 18:22:01.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported Aqui_Si_Ban to 3864.500000, 70.000000, 2889.500000
+[23May2025 18:22:26.706] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[23May2025 18:22:26.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[23May2025 18:22:50.221] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.226.188.75:44287] logged in with entity id 18938 at (3858.5, 67.0, 2881.5)
+[23May2025 18:22:50.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[23May2025 18:23:20.356] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[23May2025 18:23:20.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[23May2025 18:24:35.717] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.226.188.75:51717] logged in with entity id 19570 at (3858.5, 67.0, 2881.5)
+[23May2025 18:24:35.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[23May2025 18:25:05.824] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Aqui_Si_Ban lost connection: Timed out
+[23May2025 18:25:05.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
+[23May2025 18:25:30.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[23May2025 18:25:30.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[23May2025 18:25:38.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[23May2025 18:25:38.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23May2025 18:25:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23May2025 18:25:38.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23May2025 18:25:38.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:overworld
+[23May2025 18:25:38.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_end
+[23May2025 18:25:38.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/graveyard:past
+[23May2025 18:25:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/minecraft:the_nether
+[23May2025 18:25:38.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/deeperdarker:otherside
+[23May2025 18:25:38.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[madafaka]'/slugterra:the_slugterra
+[23May2025 18:25:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (madafaka): All chunks are saved
+[23May2025 18:25:39.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23May2025 18:25:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (past): All chunks are saved
+[23May2025 18:25:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23May2025 18:25:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (otherside): All chunks are saved
+[23May2025 18:25:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_slugterra): All chunks are saved
+[23May2025 18:25:39.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[23May2025 18:25:39.077] [Server thread/INFO] [Framework/]: Unloading server configs...
+[23May2025 18:25:39.077] [Server thread/INFO] [Framework/]: Finished unloading server configs
