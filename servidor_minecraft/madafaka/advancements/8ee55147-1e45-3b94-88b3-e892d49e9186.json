@@ -263,9 +263,12 @@
       "dryland": "2025-05-22 21:59:43 +0000",
       "wasteland": "2025-05-19 01:21:30 +0000",
       "lush_desert": "2025-05-22 21:59:31 +0000",
+      "old_growth_dead_forest": "2025-05-23 22:29:30 +0000",
       "redwood_forest": "2025-05-19 00:09:02 +0000",
+      "seasonal_orchard": "2025-05-23 22:33:01 +0000",
       "dune_beach": "2025-05-19 19:12:54 +0000",
       "seasonal_forest": "2025-05-19 00:38:33 +0000",
+      "dead_forest": "2025-05-23 22:29:45 +0000",
       "volcano": "2025-05-19 13:47:45 +0000",
       "rocky_rainforest": "2025-05-18 23:25:42 +0000",
       "pasture": "2025-05-19 12:19:21 +0000",
@@ -275,6 +278,7 @@
       "grassland": "2025-05-18 23:31:37 +0000",
       "prairie": "2025-05-21 20:12:28 +0000",
       "snowy_coniferous_forest": "2025-05-23 20:21:43 +0000",
+      "snowy_fir_clearing": "2025-05-23 22:18:41 +0000",
       "tundra": "2025-05-20 14:06:33 +0000",
       "glowing_grotto": "2025-05-19 01:30:40 +0000",
       "origin_valley": "2025-05-19 19:18:04 +0000",
@@ -6917,6 +6921,24 @@
   "mowziesmobs:suns_blessing": {
     "criteria": {
       "get_suns_blessing": "2025-05-23 21:50:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 22:30:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/walk_on_powder_snow_with_leather_boots": {
+    "criteria": {
+      "walk_on_powder_snow_with_leather_boots": "2025-05-23 22:25:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-05-23 22:30:34 +0000"
     },
     "done": true
   },
