@@ -5396,12 +5396,6 @@
     },
     "done": false
   },
-  "minecraft:recipes/redstone/dispenser": {
-    "criteria": {
-      "has_bow": "2025-05-23 22:37:44 +0000"
-    },
-    "done": true
-  },
   "born_in_chaos_v1:hat_for_dark_deeds": {
     "criteria": {
       "hat_for_dark_deeds_0": "2025-05-23 22:07:38 +0000"
@@ -5426,15 +5420,21 @@
     },
     "done": true
   },
-  "securitycraft:recipes/redstone/reinforced_dispenser": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-05-23 22:25:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-23 22:37:44 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/spruce_planks": {
+  "securitycraft:recipes/redstone/reinforced_dispenser": {
     "criteria": {
-      "has_logs": "2025-05-23 22:25:38 +0000"
+      "has_bow": "2025-05-23 22:37:44 +0000"
     },
     "done": true
   },
