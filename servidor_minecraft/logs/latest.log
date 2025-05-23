@@ -5769,3 +5769,4 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23May2025 14:39:09.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has reached the goal [Fighting Nightmares]
 [23May2025 15:09:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23May2025 15:09:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sda<--[HERE]
+[23May2025 15:18:02.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
