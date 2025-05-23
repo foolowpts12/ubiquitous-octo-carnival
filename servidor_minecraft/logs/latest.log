@@ -7702,3 +7702,5 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [23May2025 22:53:33.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
 [23May2025 22:54:20.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: KairosArch[/127.144.247.154:60687] logged in with entity id 44979 at (2438.300000011921, -37.0, 3047.300000011921)
 [23May2025 22:54:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
+[23May2025 22:59:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has reached the goal [Horror Under the Mantle]
+[23May2025 23:19:47.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved too quickly! -11.720521628424649,104.5,-144.4308039809971

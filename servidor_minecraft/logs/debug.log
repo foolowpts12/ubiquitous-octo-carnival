@@ -14106,3 +14106,14 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [23May2025 22:54:22.001] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [23May2025 22:59:21.934] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [23May2025 22:59:21.945] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[23May2025 22:59:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has reached the goal [Horror Under the Mantle]
+[23May2025 23:00:08.637] [Server thread/DEBUG] [mixin/]: Mixing accessors.item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[23May2025 23:04:21.936] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[23May2025 23:04:21.947] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[23May2025 23:09:21.930] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[23May2025 23:09:21.940] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[23May2025 23:14:22.002] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[23May2025 23:14:22.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[23May2025 23:19:21.955] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[23May2025 23:19:21.966] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[23May2025 23:19:47.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved too quickly! -11.720521628424649,104.5,-144.4308039809971
