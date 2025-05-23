@@ -5489,3 +5489,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23May2025 18:08:29.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban left the game
 [23May2025 18:08:29.323] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [23May2025 18:08:32.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzz
+[23May2025 18:09:14.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Aqui_Si_Ban[/127.156.150.119:53509] logged in with entity id 8689 at (3873.5024397441034, 65.25220334025373, 2567.232678857133)
+[23May2025 18:09:14.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban joined the game
+[23May2025 18:18:06.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Aqui_Si_Ban has made the advancement [You Are A Pirate]
