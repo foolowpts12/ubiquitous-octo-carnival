@@ -6763,21 +6763,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+  "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
-      "has_sentry_armor_trim_smithing_template": "2025-05-23 14:30:18 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2025-05-23 13:49:07 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:fighting_nightmares": {
-    "criteria": {
-      "fighting_nightmares_0": "2025-05-23 14:39:09 +0000"
+      "pumpkin_sir_0": "2025-05-23 13:36:26 +0000"
     },
     "done": true
   },
@@ -6787,15 +6775,27 @@
     },
     "done": true
   },
-  "born_in_chaos_v1:pumpkin_sir": {
+  "minecraft:recipes/misc/coal": {
     "criteria": {
-      "pumpkin_sir_0": "2025-05-23 13:36:26 +0000"
+      "has_coal_block": "2025-05-23 13:49:07 +0000"
     },
     "done": true
   },
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-23 14:12:18 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/tools/universal_owner_changer": {
+    "criteria": {
+      "has_name_tag": "2025-05-23 14:25:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-23 14:30:18 +0000"
     },
     "done": true
   },
@@ -6811,9 +6811,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/tools/universal_owner_changer": {
+  "born_in_chaos_v1:fighting_nightmares": {
     "criteria": {
-      "has_name_tag": "2025-05-23 14:25:29 +0000"
+      "fighting_nightmares_0": "2025-05-23 14:39:09 +0000"
     },
     "done": true
   },
