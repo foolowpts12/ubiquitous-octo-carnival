@@ -7726,3 +7726,8 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [23May2025 23:38:53.275] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3763, y=67, z=2032} BlockPos{x=3763, y=65, z=2032}
 [23May2025 23:38:53.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3763, y=67, z=2033} BlockPos{x=3763, y=65, z=2032}
 [23May2025 23:38:53.392] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3763, y=67, z=2033} BlockPos{x=3763, y=65, z=2032}
+[23May2025 23:43:58.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was doomed to fall by Pillager
+[23May2025 23:44:02.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3353, y=64, z=2269} BlockPos{x=3353, y=62, z=2269}
+[23May2025 23:44:02.269] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=3353, y=64, z=2269} BlockPos{x=3353, y=62, z=2269}
+[23May2025 23:45:56.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Disconnected
+[23May2025 23:45:56.175] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
