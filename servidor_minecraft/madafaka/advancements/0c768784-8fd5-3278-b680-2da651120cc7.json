@@ -625,6 +625,7 @@
       "minecraft:vindicator": "2025-05-19 14:39:47 +0000",
       "minecraft:spider": "2025-05-19 13:00:32 +0000",
       "minecraft:creeper": "2025-05-21 03:59:57 +0000",
+      "minecraft:evoker": "2025-05-23 21:02:45 +0000",
       "minecraft:witch": "2025-05-19 13:27:16 +0000",
       "minecraft:husk": "2025-05-20 19:37:54 +0000",
       "minecraft:enderman": "2025-05-18 20:10:49 +0000",
@@ -5310,7 +5311,8 @@
   },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
-      "charm_collector_4": "2025-05-22 20:30:14 +0000"
+      "charm_collector_4": "2025-05-22 20:30:14 +0000",
+      "charm_collector_2": "2025-05-23 21:51:52 +0000"
     },
     "done": false
   },
@@ -5329,6 +5331,60 @@
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-05-22 22:45:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/stripped_dark_oak_log_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-23 21:19:18 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-05-23 21:21:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-23 21:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/totem_of_undying": {
+    "criteria": {
+      "used_totem": "2025-05-23 21:25:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_evoker": {
+    "criteria": {
+      "requirement": "2025-05-23 21:35:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-05-23 21:32:22 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_equip": {
+    "criteria": {
+      "requirement": "2025-05-23 21:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-05-23 21:22:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/dark_oak/dark_oak_planks_from_dark_oak_log_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-23 21:19:18 +0000"
     },
     "done": true
   },
