@@ -5537,3 +5537,12 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23May2025 13:42:34.114] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [23May2025 13:42:34.114] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
 [23May2025 13:42:34.115] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:45:18.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail has made the advancement [Smoke On The Water]
+[23May2025 13:49:35.762] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:51:11.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was slain by Skeleton
+[23May2025 13:52:24.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail was shot by Pillager
+[23May2025 13:53:57.503] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:53:57.709] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:54:48.815] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:54:51.523] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[23May2025 13:54:51.523] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'

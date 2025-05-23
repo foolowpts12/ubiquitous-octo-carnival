@@ -6760,6 +6760,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2025-05-23 13:49:07 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_undead_pirate_ship": {
+    "criteria": {
+      "location0": "2025-05-23 13:45:18 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:pumpkin_sir": {
     "criteria": {
       "pumpkin_sir_0": "2025-05-23 13:36:26 +0000"
