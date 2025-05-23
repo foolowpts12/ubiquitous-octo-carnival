@@ -5770,3 +5770,6 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [23May2025 15:09:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [23May2025 15:09:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sda<--[HERE]
 [23May2025 15:18:02.375] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved wrongly!
+[23May2025 15:35:02.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> zzzzzzzzzz
+[23May2025 15:35:36.735] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Disconnected
+[23May2025 15:35:36.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
