@@ -6762,6 +6762,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
+    "criteria": {
+      "has_sentry_armor_trim_smithing_template": "2025-05-23 14:30:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal": {
     "criteria": {
       "has_coal_block": "2025-05-23 13:49:07 +0000"
@@ -6783,6 +6789,12 @@
   "dungeons_arise:find_bathhouse": {
     "criteria": {
       "location0": "2025-05-23 14:12:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-23 14:30:18 +0000"
     },
     "done": true
   },
