@@ -93,17 +93,20 @@
       "minecraft:river": "2025-05-18 23:19:22 +0000",
       "minecraft:stony_shore": "2025-05-18 23:16:56 +0000",
       "minecraft:snowy_plains": "2025-05-20 14:09:35 +0000",
+      "minecraft:swamp": "2025-05-23 02:14:24 +0000",
       "minecraft:cold_ocean": "2025-05-19 00:28:00 +0000",
       "minecraft:forest": "2025-05-18 23:40:28 +0000",
       "minecraft:lush_caves": "2025-05-22 15:07:55 +0000",
       "minecraft:deep_cold_ocean": "2025-05-19 00:27:47 +0000",
       "minecraft:frozen_ocean": "2025-05-20 14:12:48 +0000",
       "minecraft:desert": "2025-05-19 01:21:08 +0000",
+      "minecraft:windswept_forest": "2025-05-23 02:16:09 +0000",
       "minecraft:jungle": "2025-05-18 23:17:46 +0000",
       "minecraft:ocean": "2025-05-18 23:39:23 +0000",
       "minecraft:windswept_savanna": "2025-05-22 02:09:06 +0000",
       "minecraft:warm_ocean": "2025-05-19 01:21:04 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-18 23:38:42 +0000",
+      "minecraft:flower_forest": "2025-05-23 02:50:45 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-18 23:40:11 +0000",
       "minecraft:meadow": "2025-05-21 19:49:41 +0000",
       "minecraft:windswept_gravelly_hills": "2025-05-19 00:39:24 +0000",
@@ -426,11 +429,13 @@
     "criteria": {
       "minecraft:pillager": "2025-05-19 21:40:54 +0000",
       "minecraft:skeleton": "2025-05-19 01:50:13 +0000",
+      "minecraft:ravager": "2025-05-23 02:37:57 +0000",
       "minecraft:vindicator": "2025-05-23 00:37:24 +0000",
       "minecraft:magma_cube": "2025-05-22 02:50:39 +0000",
       "minecraft:spider": "2025-05-18 23:19:09 +0000",
       "minecraft:creeper": "2025-05-18 23:51:58 +0000",
       "minecraft:slime": "2025-05-19 16:45:15 +0000",
+      "minecraft:evoker": "2025-05-23 02:23:43 +0000",
       "minecraft:husk": "2025-05-19 14:51:54 +0000",
       "minecraft:cave_spider": "2025-05-19 01:03:44 +0000",
       "minecraft:stray": "2025-05-19 01:05:05 +0000",
@@ -6425,51 +6430,15 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:horror_underthe_mantle": {
+    "criteria": {
+      "horror_underthe_mantle_0": "2025-05-23 00:25:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/woodcutting/jungle/jungle_fence_gate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-05-23 00:53:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_pressure_plate": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crimson_sign": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_door": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:bonk": {
-    "criteria": {
-      "bonk_0": "2025-05-23 01:04:15 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:squireofthe_dark_lord": {
-    "criteria": {
-      "squireofthe_dark_lord_2": "2025-05-23 01:03:58 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/crimson_fence": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
     },
     "done": true
   },
@@ -6485,24 +6454,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_button": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_slab": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_button_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
@@ -6512,18 +6463,6 @@
   "minecraft:recipes/woodcutting/jungle/jungle_door_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:horror_underthe_mantle": {
-    "criteria": {
-      "horror_underthe_mantle_0": "2025-05-23 00:25:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/trapped_chest": {
-    "criteria": {
-      "has_tripwire_hook": "2025-05-23 00:39:23 +0000"
     },
     "done": true
   },
@@ -6545,21 +6484,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
-    "criteria": {
-      "give_recipe": "2025-05-23 00:53:24 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_trapdoor_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/crimson_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
     },
     "done": true
   },
@@ -6581,12 +6508,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/crimson_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-05-23 00:37:12 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/woodcutting/jungle/jungle_pressure_plate_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
@@ -6596,6 +6517,246 @@
   "minecraft:recipes/woodcutting/jungle/chest_from_jungle_planks_woodcutting": {
     "criteria": {
       "give_recipe": "2025-05-23 00:37:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-23 00:37:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-05-23 00:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/jungle_planks_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-23 00:53:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/woodcutting/jungle/stripped_jungle_wood_from_jungle_wood_woodcutting": {
+    "criteria": {
+      "give_recipe": "2025-05-23 00:53:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:squireofthe_dark_lord": {
+    "criteria": {
+      "squireofthe_dark_lord_2": "2025-05-23 01:03:58 +0000"
+    },
+    "done": false
+  },
+  "born_in_chaos_v1:bonk": {
+    "criteria": {
+      "bonk_0": "2025-05-23 01:04:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/giant_mushroom": {
+    "criteria": {
+      "giant_mushroom": "2025-05-23 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-05-23 02:15:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-23 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/vex_armor_trim_smithing_template": {
+    "criteria": {
+      "has_vex_armor_trim_smithing_template": "2025-05-23 02:22:41 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-23 02:40:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-05-23 02:54:15 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-05-23 02:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-23 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-23 03:03:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-05-23 03:08:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-23 03:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-23 03:10:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/cure_zombie_villager": {
+    "criteria": {
+      "cured_zombie": "2025-05-23 03:14:11 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:protectedby_darkness": {
+    "criteria": {
+      "protectedby_darkness_0": "2025-05-23 03:20:12 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-05-23 03:27:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-23 03:40:24 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:guidetothenextworld": {
+    "criteria": {
+      "guidetothenextworld_0": "2025-05-23 03:53:45 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:wrong_santa": {
+    "criteria": {
+      "wrong_santa_0": "2025-05-23 04:13:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-23 04:13:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-23 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-23 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-23 04:14:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-05-23 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-05-23 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-23 04:53:44 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_wood": {
+    "criteria": {
+      "has_log": "2025-05-23 05:41:36 +0000"
     },
     "done": true
   },
