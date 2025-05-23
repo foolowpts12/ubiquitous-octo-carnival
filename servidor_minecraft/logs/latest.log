@@ -7704,3 +7704,8 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [23May2025 22:54:20.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch joined the game
 [23May2025 22:59:50.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has reached the goal [Horror Under the Mantle]
 [23May2025 23:19:47.472] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved too quickly! -11.720521628424649,104.5,-144.4308039809971
+[23May2025 23:26:09.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch was killed by Evoker using magic
+[23May2025 23:30:00.443] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sokrose[/127.161.226.162:57159] logged in with entity id 54676 at (3763.086504566523, 64.0, 1990.5183510372112)
+[23May2025 23:30:00.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose joined the game
+[23May2025 23:30:02.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch moved too quickly! -6.5788325246148815,5.595582650443433,-5.193658284768389
+[23May2025 23:30:02.984] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2476ms or 49 ticks behind
