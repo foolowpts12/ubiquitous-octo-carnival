@@ -34,3 +34,5 @@
 [24May2025 00:33:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose was kicked for floating too long!
 [24May2025 00:33:53.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Flying is not enabled on this server
 [24May2025 00:33:53.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
+[24May2025 00:44:55.328] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4229, y=62, z=3150} BlockPos{x=4228, y=62, z=3150}
+[24May2025 00:44:55.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4229, y=62, z=3150} BlockPos{x=4228, y=62, z=3150}
