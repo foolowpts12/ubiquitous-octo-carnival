@@ -28,3 +28,9 @@
 [24May2025 00:31:29.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail was kicked for floating too long!
 [24May2025 00:31:29.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Flying is not enabled on this server
 [24May2025 00:31:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
+[24May2025 00:31:48.622] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@368780a2[id=<null>,name=blackdesfail,properties={},legacy=false] (/127.195.151.45:40479) lost connection: Disconnected
+[24May2025 00:31:56.733] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: blackdesfail[/127.195.151.45:52845] logged in with entity id 77834 at (3394.892526269585, 84.36659146860775, 2244.9212455368774)
+[24May2025 00:31:56.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail joined the game
+[24May2025 00:33:53.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose was kicked for floating too long!
+[24May2025 00:33:53.182] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Flying is not enabled on this server
+[24May2025 00:33:53.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
