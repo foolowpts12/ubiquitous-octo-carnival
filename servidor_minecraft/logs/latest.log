@@ -38,3 +38,8 @@
 [24May2025 00:44:55.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=4229, y=62, z=3150} BlockPos{x=4228, y=62, z=3150}
 [24May2025 01:12:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [24May2025 01:12:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bn<--[HERE]
+[24May2025 01:12:52.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sokrose[/127.161.226.162:47765] logged in with entity id 92484 at (3479.871837553008, 91.66017123466071, 2267.188809445093)
+[24May2025 01:12:52.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose joined the game
+[24May2025 01:21:40.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 4384.300982516536,-14.919999986886978,3146.6644646706654
+[24May2025 01:22:22.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peashooteru[/127.84.86.159:51743] logged in with entity id 98155 at (41.5, 70.0, -14.5)
+[24May2025 01:22:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peashooteru joined the game
