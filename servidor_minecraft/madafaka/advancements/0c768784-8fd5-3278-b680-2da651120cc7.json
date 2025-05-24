@@ -5313,11 +5313,12 @@
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-05-23 22:07:38 +0000",
+      "charm_collector_0": "2025-05-24 00:00:54 +0000",
       "charm_collector_4": "2025-05-22 20:30:14 +0000",
       "charm_collector_3": "2025-05-23 22:27:26 +0000",
       "charm_collector_2": "2025-05-23 21:51:52 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/chiseled_deepslate": {
     "criteria": {

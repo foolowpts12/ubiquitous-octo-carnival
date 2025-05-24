@@ -1,2 +1,4 @@
 [24May2025 00:00:34.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/67118, l='ServerLevel[madafaka]', x=2162.50, y=51.00, z=3344.50]
 [24May2025 00:00:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch has completed the challenge [Charm Collector]
+[24May2025 00:08:04.221] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: KairosArch lost connection: Disconnected
+[24May2025 00:08:04.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: KairosArch left the game
