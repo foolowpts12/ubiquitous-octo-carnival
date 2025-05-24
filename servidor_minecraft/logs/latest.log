@@ -43,3 +43,25 @@
 [24May2025 01:21:40.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail moved too quickly! 4384.300982516536,-14.919999986886978,3146.6644646706654
 [24May2025 01:22:22.431] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: peashooteru[/127.84.86.159:51743] logged in with entity id 98155 at (41.5, 70.0, -14.5)
 [24May2025 01:22:22.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peashooteru joined the game
+[24May2025 01:22:51.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peashooteru was blown up by Creeper
+[24May2025 01:24:48.706] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:48.706] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:48.708] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:49.444] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:49.444] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:49.448] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:51.032] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:51.032] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:51.043] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:51.046] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:24:53.308] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:25:42.130] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/92513, l='ServerLevel[madafaka]', x=3419.41, y=63.00, z=2249.12] died, message: 'Villager hit the ground too hard'
+[24May2025 01:26:48.293] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 01:27:48.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported peashooteru to blackdesfail
+[24May2025 01:29:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <blackdesfail> 4100 3300
+[24May2025 01:31:05.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Glutton Fish
+[24May2025 01:40:10.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: sokrose lost connection: Disconnected
+[24May2025 01:40:10.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
+[24May2025 01:41:38.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peashooteru fell from a high place
+[24May2025 01:41:49.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: peashooteru has made the advancement [Alex's Mobs]
+[24May2025 01:41:51.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Teleported peashooteru to blackdesfail
