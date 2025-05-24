@@ -15767,3 +15767,9 @@ Caused by: java.lang.ClassNotFoundException: net.minecraft.client.particle.Textu
 [24May2025 00:54:24.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
 [24May2025 00:59:24.387] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
 [24May2025 00:59:24.398] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 01:04:24.349] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 01:04:24.359] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 01:09:24.348] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save madafaka
+[24May2025 01:09:24.360] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete madafaka
+[24May2025 01:12:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[24May2025 01:12:03.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: bn<--[HERE]
