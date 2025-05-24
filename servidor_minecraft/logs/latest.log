@@ -19,3 +19,12 @@
 [24May2025 00:20:27.376] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose left the game
 [24May2025 00:21:07.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: sokrose[/127.161.226.162:44565] logged in with entity id 70461 at (3393.764032285502, 74.0, 2294.2856163967945)
 [24May2025 00:21:07.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose joined the game
+[24May2025 00:23:05.733] [Server thread/WARN] [net.minecraft.world.entity.ai.attributes.AttributeMap/]: Ignoring unknown attribute 'forge:step_height'
+[24May2025 00:23:19.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Vindicator
+[24May2025 00:23:27.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was shot by Pillager
+[24May2025 00:23:37.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was slain by Vindicator
+[24May2025 00:24:15.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: sokrose was shot by Pillager
+[24May2025 00:24:49.504] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/73466, l='ServerLevel[madafaka]', x=3371.26, y=64.92, z=2289.41] died, message: 'Villager was slain by sokrose'
+[24May2025 00:31:29.572] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail was kicked for floating too long!
+[24May2025 00:31:29.620] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: blackdesfail lost connection: Flying is not enabled on this server
+[24May2025 00:31:29.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: blackdesfail left the game
